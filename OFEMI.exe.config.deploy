@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+	<configSections>
+ </configSections>
+	<connectionStrings>
+  <add name="WindowsFormsApp4.Properties.Settings.ofemiConnectionString" connectionString="Source=213.142.148.8,1433;Network Library=DBMSSOCN;Initial Catalog=ofemi;User ID=ofemi; Şifre = ofemi4224" providerName="System.Data.SqlClient"/>
+  <add name="WindowsFormsApp4.Properties.Settings.ofemiConnectionString1" connectionString="Data Source=.\;Initial Catalog=ofemi;Integrated Security=True" providerName="System.Data.SqlClient"/>
+  <add name="WindowsFormsApp4.Properties.Settings.ofemiConnectionString2" connectionString="Data Source=213.142.148.8;Initial Catalog=ofemi;User ID=ofemi;Password=ofemi4224" providerName="System.Data.SqlClient"/>
+ </connectionStrings>
+	<startup>
+		<supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.6.1"/>
+	</startup>
+</configuration>
