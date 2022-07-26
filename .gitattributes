@@ -1,4 +1,4 @@
-*.manifest ikili
-*.application ikili
-*.deploy ikili
-* -Metin
+.manifest ikili
+.application ikili
+.deploy ikili
+ -Metin
